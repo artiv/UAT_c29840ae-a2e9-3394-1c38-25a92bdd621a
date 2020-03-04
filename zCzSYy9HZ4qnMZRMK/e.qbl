@@ -44,7 +44,46 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "s11_eWKH_5YHo_n28Z",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fs11_eWKH_5YHo_n28Z.mp4",
+								"originalName": "s11_eWKH_5YHo",
+								"size": 877826,
+								"lastModified": 1571126467839,
+								"lastModifiedDate": "2019-10-15T08:01:07.839Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 2.117,
+								"width": 3360,
+								"height": 2100,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fs11_eWKH_5YHo_n28Z.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fs11_eWKH_5YHo_n28Z.mp4"
+								],
+								"transformedPublicIds": [
+									"s11_eWKH_5YHo_n28Z"
+								],
+								"embed": {
+									"width": 3360,
+									"height": 2100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "s11_ewkh_5yho"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
