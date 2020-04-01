@@ -48,7 +48,232 @@
 							{
 								"public_id": "modernFamMov_q4NC_ykXi",
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_q4NC_ykXi.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool guy. That's that's my thing.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a4qq5",
+													"text": "I'm a cool guy. That's that's my thing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm here at 5. i surf the web I",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1sc76",
+													"text": "I'm here at 5. i surf the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "text",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5efp3",
+													"text": "text",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": 0,
+										"y": 0,
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "LOL.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"horizontalAlignment": "center",
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cb9b9",
+													"text": "LOL.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
@@ -62,7 +287,32 @@
 										"tempo": 1
 									}
 								],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my thing.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here at 5. i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 6300,
+											"text": "I'm a cool guy. That's that's my thing."
+										},
+										{
+											"start": 7400,
+											"end": 9400,
+											"text": "I'm here at 5. i surf the web I"
+										},
+										{
+											"start": 9400,
+											"end": 10000,
+											"text": "text"
+										},
+										{
+											"start": 10000,
+											"end": 10600,
+											"text": "LOL."
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_q4NC_ykXi.mp4"
 								],
@@ -89,6 +339,23 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfammov_q4nc"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true,
+									"x": 0,
+									"y": 0,
+									"useXY": false
 								}
 							}
 						],
