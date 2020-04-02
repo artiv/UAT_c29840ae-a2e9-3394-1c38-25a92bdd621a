@@ -1,0 +1,288 @@
+{
+	"fileName": "en_quickItem_Q49n.qbl",
+	"fileTemplateRepo": "UAT_c29840ae-a2e9-3394-1c38-25a92bdd621a",
+	"fileTemplatePath": "zCzSYy9HZ4qnMZRMK/en_myTemplate.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "60518391-fa77-0731-724c-f02833096948",
+			"fileItemDate": "2020-04-02T08:43:22.614Z",
+			"fileItemCollections": [
+				"zCzSYy9HZ4qnMZRMK"
+			],
+			"fileItemCollectionsForTranslation": [
+				"zCzSYy9HZ4qnMZRMK"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "AYLTshE295jdpQ93r",
+			"possibleLanguages": [
+				"NRmEqxf9hFvkYNcDk",
+				"Cvjw7r3KBznPjshdh"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "08605933-cf73-e882-ab67-c9e068089744",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsEditableCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload:  Video",
+						"fieldKey": "Video",
+						"fieldValues": [
+							{
+								"public_id": "modernFamMov_djZD_skh2",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_djZD_skh2.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.232381,
+										"duration": 30.232381,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:03,100 --> 00:00:06,200\nI'm a cool guy. That's that's nothing.\n\n2\n00:00:07,500 --> 00:00:09,500\nI'm here at 5 i surf the web I\n\n3\n00:00:09,500 --> 00:00:10,100\ntext\n\n4\n00:00:10,100 --> 00:00:10,700\nLOL.\n\n5\n00:00:10,700 --> 00:00:11,500\nLaugh out loud\n\n6\n00:00:11,500 --> 00:00:13,200\nOMG. Oh my God\n\n7\n00:00:13,200 --> 00:00:14,700\nWTF why the FaZe?\n\n8\n00:00:14,700 --> 00:00:18,400\nYou know, I know all the dances to High School Musical\n\n9\n00:00:18,400 --> 00:00:20,200\nWe're All in\n\n10\n00:00:20,200 --> 00:00:20,900\nThis\n\n11\n00:00:20,900 --> 00:00:21,600\nTogether.\n\n12\n00:00:21,600 --> 00:00:23,900\nYes, we are\n\n13\n00:00:23,900 --> 00:00:25,200\nall stars.\n",
+									"parsed": [
+										{
+											"start": 3100,
+											"end": 6200,
+											"text": "I'm a cool guy. That's that's nothing."
+										},
+										{
+											"start": 7500,
+											"end": 9500,
+											"text": "I'm here at 5 i surf the web I"
+										},
+										{
+											"start": 9500,
+											"end": 10100,
+											"text": "text"
+										},
+										{
+											"start": 10100,
+											"end": 10700,
+											"text": "LOL."
+										},
+										{
+											"start": 10700,
+											"end": 11500,
+											"text": "Laugh out loud"
+										},
+										{
+											"start": 11500,
+											"end": 13200,
+											"text": "OMG. Oh my God"
+										},
+										{
+											"start": 13200,
+											"end": 14700,
+											"text": "WTF why the FaZe?"
+										},
+										{
+											"start": 14700,
+											"end": 18400,
+											"text": "You know, I know all the dances to High School Musical"
+										},
+										{
+											"start": 18400,
+											"end": 20200,
+											"text": "We're All in"
+										},
+										{
+											"start": 20200,
+											"end": 20900,
+											"text": "This"
+										},
+										{
+											"start": 20900,
+											"end": 21600,
+											"text": "Together."
+										},
+										{
+											"start": 21600,
+											"end": 23900,
+											"text": "Yes, we are"
+										},
+										{
+											"start": 23900,
+											"end": 25200,
+											"text": "all stars."
+										}
+									],
+									"isAttached": false
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_djZD_skh2.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamMov_djZD_skh2"
+								],
+								"originalName": "modernFamMov",
+								"size": 686472,
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.232381,
+								"width": 480,
+								"height": 360,
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfammov_djzd"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "bcf5e1d5-a7bb-97ad-68ce-ac5c26ea4e78",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsEditableCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload:  Audio",
+						"fieldKey": "Audio",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a589f972-8c98-7537-2ca8-cbe4faa41bbf",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsEditableCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload:  Image",
+						"fieldKey": "Image",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fc871b86-2d5d-3d27-6f50-a7d8ce10c8e3",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsEditableCollections": [
+							"zCzSYy9HZ4qnMZRMK"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload:  Text",
+						"fieldKey": "Text",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
