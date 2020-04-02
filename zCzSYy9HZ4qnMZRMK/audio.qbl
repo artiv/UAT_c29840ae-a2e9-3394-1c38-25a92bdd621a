@@ -80,7 +80,50 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Audio",
 						"fieldKey": "Audio",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "nsw____________-_____CLpZ_QTie",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/nsw____________-_____CLpZ_QTie.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.014688,
+										"duration": 30.014688,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/nsw____________-_____CLpZ_QTie.mp4"
+								],
+								"transformedPublicIds": [
+									"nsw____________-_____CLpZ_QTie"
+								],
+								"duration": 30.014688,
+								"size": 480373,
+								"type": "video/mp4",
+								"originalName": "nsw!@",
+								"format": "mp4",
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw____________-_____clpz"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
