@@ -76,7 +76,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3hfn6",
+													"key": "dkh9l",
 													"text": "I'm a cool guy. That's that's nothing.",
 													"type": "unstyled",
 													"depth": 0,
@@ -132,7 +132,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "72s9b",
+													"key": "8c9ca",
 													"text": "I'm here at 5 i surf the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -188,7 +188,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4le6s",
+													"key": "8nlmb",
 													"text": "text",
 													"type": "unstyled",
 													"depth": 0,
@@ -244,7 +244,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d6jjr",
+													"key": "49lo2",
 													"text": "LOL.",
 													"type": "unstyled",
 													"depth": 0,
@@ -300,7 +300,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9vf06",
+													"key": "f2rtq",
 													"text": "Laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -356,7 +356,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "elfu7",
+													"key": "768s7",
 													"text": "OMG. Oh my God",
 													"type": "unstyled",
 													"depth": 0,
@@ -412,7 +412,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7ks8c",
+													"key": "5al6f",
 													"text": "WTF why the FaZe?",
 													"type": "unstyled",
 													"depth": 0,
@@ -468,7 +468,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2bb23",
+													"key": "9dmgn",
 													"text": "You know, I know all the dances to High School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -524,7 +524,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8r1dr",
+													"key": "1f8gf",
 													"text": "We're All in",
 													"type": "unstyled",
 													"depth": 0,
@@ -580,7 +580,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ersdu",
+													"key": "2vi9v",
 													"text": "This",
 													"type": "unstyled",
 													"depth": 0,
@@ -636,7 +636,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "caq9s",
+													"key": "1fnb8",
 													"text": "Together.",
 													"type": "unstyled",
 													"depth": 0,
@@ -692,7 +692,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ffmr0",
+													"key": "5ol66",
 													"text": "Yes, we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -748,7 +748,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a6607",
+													"key": "ak22b",
 													"text": "all stars.",
 													"type": "unstyled",
 													"depth": 0,
@@ -891,7 +891,7 @@
 									"seoSuffix": "modernfammov_r6sq"
 								},
 								"underlay": {
-									"show": "stripe",
+									"show": "background",
 									"gravity": "center",
 									"boxcolor": {
 										"rgb": {
