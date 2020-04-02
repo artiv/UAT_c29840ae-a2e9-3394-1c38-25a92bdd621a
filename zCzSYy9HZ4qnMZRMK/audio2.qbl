@@ -44,7 +44,54 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "modernFamMov_FZ2K_bo67",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_FZ2K_bo67.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 30.232381,
+										"duration": 30.232381,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_FZ2K_bo67.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamMov_FZ2K_bo67"
+								],
+								"duration": 30.232381,
+								"width": 480,
+								"height": 360,
+								"size": 686472,
+								"type": "video/mp4",
+								"originalName": "modernFamMov",
+								"format": "mp4",
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfammov_fz2k"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
