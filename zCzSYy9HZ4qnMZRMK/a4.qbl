@@ -44,54 +44,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [
-							{
-								"public_id": "modernFamMov_fgJG_JQCb",
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_fgJG_JQCb.mp4",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [
-									{
-										"public_id": "Original audio",
-										"isFixed": true,
-										"isAttached": true,
-										"start_offset": 0,
-										"end_offset": 30.232381,
-										"duration": 30.232381,
-										"volume": 1,
-										"tempo": 1
-									}
-								],
-								"captions": {},
-								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5/modernFamMov_fgJG_JQCb.mp4"
-								],
-								"transformedPublicIds": [
-									"modernFamMov_fgJG_JQCb"
-								],
-								"duration": 30.232381,
-								"width": 480,
-								"height": 360,
-								"size": 686472,
-								"type": "video/mp4",
-								"originalName": "modernFamMov",
-								"format": "mp4",
-								"embed": {
-									"width": 480,
-									"height": 360,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "modernfammov_fgjg"
-								}
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
@@ -127,7 +80,39 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Audio",
 						"fieldKey": "Audio",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "nsw_wTgi",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fnsw_wTgi.mp3",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fnsw_wTgi.mp3"
+								],
+								"transformedPublicIds": [
+									"nsw_wTgi"
+								],
+								"duration": 30.014688,
+								"size": 480373,
+								"type": "audio/mp3",
+								"originalName": "nsw",
+								"format": "mp3",
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
