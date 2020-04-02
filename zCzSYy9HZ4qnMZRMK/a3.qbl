@@ -87,7 +87,88 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:01,700\nEveryone experiences\n\n2\n00:00:01,700 --> 00:00:03,000\nanxiety at some time,\n\n3\n00:00:03,000 --> 00:00:05,500\nbut one in seven will be affected by Anxiety\n\n4\n00:00:05,500 --> 00:00:06,300\nDisorder\n\n5\n00:00:06,300 --> 00:00:07,600\nand anxiety\n\n6\n00:00:07,600 --> 00:00:09,500\ndisorder and not realise\n\n7\n00:00:09,500 --> 00:00:12,900\nit's time to get help\n\n8\n00:00:12,900 --> 00:00:14,400\nfind out more about anxiety\n\n9\n00:00:14,400 --> 00:00:16,500\nvisit your GP go to\n\n10\n00:00:16,500 --> 00:00:17,300\nunderstanding anxiety\n\n11\n00:00:17,300 --> 00:00:18,800\ndotcom.au\n\n12\n00:00:18,800 --> 00:00:22,400\n307\n\n13\n00:00:22,400 --> 00:00:23,900\n9492\n\n14\n00:00:23,900 --> 00:00:25,800\nbecause there is a reason you feel this way,\n\n15\n00:00:25,800 --> 00:00:27,800\nbut there's no reason you have to.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 1700,
+											"text": "Everyone experiences"
+										},
+										{
+											"start": 1700,
+											"end": 3000,
+											"text": "anxiety at some time,"
+										},
+										{
+											"start": 3000,
+											"end": 5500,
+											"text": "but one in seven will be affected by Anxiety"
+										},
+										{
+											"start": 5500,
+											"end": 6300,
+											"text": "Disorder"
+										},
+										{
+											"start": 6300,
+											"end": 7600,
+											"text": "and anxiety"
+										},
+										{
+											"start": 7600,
+											"end": 9500,
+											"text": "disorder and not realise"
+										},
+										{
+											"start": 9500,
+											"end": 12900,
+											"text": "it's time to get help"
+										},
+										{
+											"start": 12900,
+											"end": 14400,
+											"text": "find out more about anxiety"
+										},
+										{
+											"start": 14400,
+											"end": 16500,
+											"text": "visit your GP go to"
+										},
+										{
+											"start": 16500,
+											"end": 17300,
+											"text": "understanding anxiety"
+										},
+										{
+											"start": 17300,
+											"end": 18800,
+											"text": "dotcom.au"
+										},
+										{
+											"start": 18800,
+											"end": 22400,
+											"text": "307"
+										},
+										{
+											"start": 22400,
+											"end": 23900,
+											"text": "9492"
+										},
+										{
+											"start": 23900,
+											"end": 25800,
+											"text": "because there is a reason you feel this way,"
+										},
+										{
+											"start": 25800,
+											"end": 27800,
+											"text": "but there's no reason you have to."
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fnsw____________-_____gHSu.mp3"
 								],
