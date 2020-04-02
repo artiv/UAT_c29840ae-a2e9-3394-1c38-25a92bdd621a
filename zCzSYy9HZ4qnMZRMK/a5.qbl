@@ -44,7 +44,54 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Video",
 						"fieldKey": "Video",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "sampleVideo_Gxuc",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2FsampleVideo_Gxuc.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "Original audio",
+										"isFixed": true,
+										"isAttached": true,
+										"start_offset": 0,
+										"end_offset": 5.312,
+										"duration": 5.312,
+										"volume": 1,
+										"tempo": 1
+									}
+								],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2FsampleVideo_Gxuc.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_Gxuc"
+								],
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"size": 1055736,
+								"type": "video/mp4",
+								"originalName": "sampleVideo",
+								"format": "mp4",
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
