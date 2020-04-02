@@ -127,7 +127,39 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload:  Audio",
 						"fieldKey": "Audio",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "nsw_FLeF",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fnsw_FLeF.mp3",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_nGw6zcZyxpiWLsHA5%2Fnsw_FLeF.mp3"
+								],
+								"transformedPublicIds": [
+									"nsw_FLeF"
+								],
+								"duration": 30.014688,
+								"size": 480373,
+								"type": "audio/mp3",
+								"originalName": "nsw",
+								"format": "mp3",
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
